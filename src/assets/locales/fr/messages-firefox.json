@@ -1,0 +1,26 @@
+{
+  "menuItemTitle_formData": {
+    "message": "Données de formulaire",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_localStorage": {
+    "message": "Stockage local",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_pluginData": {
+    "message": "Données de plugin",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_allDataTypes": {
+    "message": "Tous les types de données",
+    "description": "Title of the menu item."
+  },
+
+  "optionSectionTitle_dataTypes": {
+    "message": "Types de données",
+    "description": "Title of the option section."
+  }
+}
